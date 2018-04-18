@@ -1,0 +1,24 @@
+What is machine learning
+Difference between AI,ML,Data Science
+
+Data Science:Insights  e.g ecommerce data..during festival people buy more,people spend 1 hour on site before buyin phone etc.
+AI = rule and logic based + ML
+
+ML is pattern based 
+ML examples:
+stock prediction,cricket hawk eye,amazon recommendation etc
+Not every automation is machine learning e.g robo in factory..but if that robo drops something and picks it up..then its ML
+
+
+
+
+Types of ML Problems
+Regression:experience vs Salary
+Classification:salary vs income range,
+
+
+Regression:
+R vs Python
+Example in notebook
+
+Industry Trends
